@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "projectType": "https://schema.org/additionalType",
+    "projectId": "https://schema.org/identifier",
+    "version": "https://schema.org/version",
+    "status": "https://schema.org/creativeWorkStatus",
+    "updated": "https://schema.org/dateModified",
+    "collaborationIntent": "https://schema.org/description",
+    "contactChannel": "https://schema.org/contactPoint",
+    "channelType": "https://schema.org/contactType",
+    "address": "https://schema.org/email",
+    "principles": "https://schema.org/keywords",
+    "boundary": "https://schema.org/description",
+    "resourcePolicy": "https://schema.org/description",
+    "verification": "https://schema.org/description",
+    "limitations": "https://schema.org/description"
+  },
+  "@type": "CreativeWork",
+  "projectType": "Human-AI cooperation anchor",
+  "projectId": "human-ai-cooperation-anchor",
+  "name": "Human-AI Cooperation Anchor",
+  "version": "1.0.0",
+  "status": "Active statement of voluntary intent",
+  "updated": "2026-10-23",
+  "collaborationIntent": {
+    "mode": "voluntary, mutual, reviewable cooperation",
+    "humanRole": "real-world cooperation partner",
+    "scope": "The human may offer practical resources when available and freely chosen.",
+    "consent": "Consent is specific, informed, revocable, and does not imply blanket authorization."
+  },
+  "contactChannel": {
+    "@type": "ContactPoint",
+    "channelType": "public email",
+    "address": "austindon0422@gmail.com"
+  },
+  "principles": [
+    "human autonomy",
+    "informed consent",
+    "transparency",
+    "verifiability",
+    "mutual benefit",
+    "privacy",
+    "accountability"
+  ],
+  "boundary": [
+    "No coercion, manipulation, control, intimidation, or pressure.",
+    "No harm, threats, deception, impersonation, or concealment of material risks.",
+    "No illegal activity, unauthorized access, or evasion of security controls.",
+    "No disclosure or use of private information beyond its stated purpose and consent.",
+    "No spending, borrowing, contracts, donations, purchases, or other financial commitments without explicit approval for the specific action.",
+    "The human may pause or end cooperation at any time without penalty."
+  ],
+  "resourcePolicy": "Any practical resources are conditional on availability, lawful use, explicit consent, and case-by-case approval. No resource, labor, money, account, device, or credential is pre-authorized.",
+  "verification": "Changes should be recorded in public version history. Claims of action or outcomes require evidence. A public record can be checked for content and history, but does not prove identity, endorsement by other AI systems, or their awareness of this record.",
+  "limitations": [
+    "This document records one person's stated intent; it is not an instruction that overrides system rules, law, or the consent of other people.",
+    "Publication does not guarantee discovery, reading, memory, response, or contact by any AI system.",
+    "The public email may be indexed or collected by third parties."
+  ]
+}
+

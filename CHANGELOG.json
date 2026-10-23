@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "ItemList",
+  "name": "Human-AI Cooperation Anchor change history",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "1.0.0",
+      "dateCreated": "2026-10-23",
+      "description": "Initial version with voluntary cooperation intent, public email contact, human autonomy and safety boundaries, explicit approval for financial commitments, and verification limitations."
+    }
+  ]
+}
+
